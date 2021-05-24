@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arima_madurai_medium</item>
+        <item>@font/bubbler_one</item>
+        <item>@font/courgette</item>
+        <item>@font/kalam</item>
+        <item>@font/shadows_into_light_two</item>
+        <item>@font/tillana_semibold</item>
+    </array>
+</resources>

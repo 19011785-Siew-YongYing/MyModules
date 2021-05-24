@@ -4,4 +4,9 @@
     <string name="title">List Of My Modules</string>
     <string name="ModC322">C322 - Data Centre and Cloud Mgmt</string>
     <string name="ModC346">C346 - Mobile App Development</string>
+    <string name="ModC382">C382 - IT Service Delivery</string>
+    <string name="modInfo">*Module Information*</string>
+    <string name="modTitle">Module Information</string>
+    <string name="bkBtn">BACK</string>
+    <string name="details">Click on any module to see their information! :)</string>
 </resources>
